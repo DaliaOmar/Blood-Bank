@@ -1,0 +1,63 @@
+/**{
+    margin: 0px;
+    padding: 0px;
+}*/
+body{
+
+    padding-top: 3.5em;
+
+    /*background-image: url("../assets/finally.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 1830px 900px;*/
+    /*margin-top: 3cm;*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+}
+table{
+    font-family: tahoma;
+}
+
+h5{
+    font-size: xx-large;
+    font-family: "Cantarell",cursive;
+    color: crimson;
+}
+.index-container{
+}
+.loginBtn{
+
+}
+.emphasize{
+    font-weight: bold;
+    font-size: large;
+    color: red;
+    text-shadow: 2px;
+    font-family: tahoma;
+
+}
+
+
+#Heading{
+    font-size: 60px;
+    color: grey;
+    font-family: comic sans ms;
+}
+#Heading:hover{
+    color: darkred;
+}
+#About{
+    font-family: tahoma ;
+}
+#line_1{
+    width: 1140px;
+    color: black;
+
+}
+#Heading2{
+    font-size: 60px;
+    color: grey;
+    font-family: comic sans ms;
+}
+#Heading2:hover{
+    color: darkred;
+}
